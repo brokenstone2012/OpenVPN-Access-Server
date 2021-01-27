@@ -43,7 +43,7 @@
         "security": "none",
         "wsSettings": {
           "headers": {
-            "Host": "wap.hb.189.cn"
+            "Host": "raw.githubusercontent.com"
           },
           "path": "/"
         }
